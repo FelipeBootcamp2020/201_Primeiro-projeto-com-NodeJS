@@ -1,0 +1,11 @@
+{
+  "name": "201_Primeiro-projeto-com-NodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FelipeBootcamp2020/201_Primeiro-projeto-com-NodeJS.git",
+  "author": "Felipe Genuino <design@felipegenuino.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
