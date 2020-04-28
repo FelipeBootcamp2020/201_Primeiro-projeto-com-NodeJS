@@ -5,7 +5,6 @@ import { startOfHour, parseISO } from 'date-fns';
 import AppointmentRepository from '../repositories/AppointmentsRepository';
 
 const appointmentsRouter = Router();
-
 const appointmentRepository = new AppointmentRepository();
 
 appointmentsRouter.post('/', (request, response) => {
